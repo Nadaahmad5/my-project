@@ -2,4 +2,4 @@
 this is my project
 
 
-this is a note
+this is a note.
